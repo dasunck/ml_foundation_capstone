@@ -4,8 +4,11 @@
 # Project Title : DEFAULT CREDIT CARD CLIENTS PREDICTION
 
 dataset Directory : Includes dataset and dataset Descriptions
+
 Capstone_Project.ipynb : Includes Python code that coveres Data Preprocessing, Model Building and Evaluating Parts (All Parts in Single Notebook)
+
 Project Report.pdf : Compiled Project Report
+
 DEFAULT CREDIT CARD CLIENTS PREDICTION.pdf : Presentation
 
 Auther : Dasun Kehelwala (Dasun.Kehelwala@Dialog.lk)
